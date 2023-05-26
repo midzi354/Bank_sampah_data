@@ -185,7 +185,7 @@ require 'system/config/koneksi.php'
 
       <div>
         <i class="fa fa-envelope"></i>
-        <p><a href="mailto:Official_bsk09@gmail.com">banksampah_sejahtra@gmail.com</a></p>
+        <p><a href="mailto:Official_bsk09@gmail.com">banksampah_makassar@gmail.com</a></p>
       </div>
 
     </div>
@@ -194,7 +194,7 @@ require 'system/config/koneksi.php'
 
       <p class="footer-company-about">
         <span>Kunjungi Sosial Media Kami!</span>
-        Untuk yang ingin lebih dekat dengan Bank Sampah Sejahtra, silahkan kunjungi sosial media kami dibawah ini!
+        Untuk yang ingin lebih dekat dengan Bank Sampah Makassar, silahkan kunjungi sosial media kami dibawah ini!
       </p>
 
       <div class="footer-icons">
