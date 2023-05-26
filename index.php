@@ -145,7 +145,7 @@ require 'system/config/koneksi.php'
       <h1 align="center">Lokasi Bank Sampah</h1>
       <br>
       <br>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31690.51770907316!2d111.10782528651586!3d-6.852828623794187!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7733658dcf4705%3A0xddde23cc7ba079af!2sKarangwotan%2C%20Kec.%20Pucakwangi%2C%20Kabupaten%20Pati%2C%20Jawa%20Tengah!5e0!3m2!1sid!2sid!4v1662485412601!5m2!1sid!2sid" width="1362" height="470" frameborder="0" style="margin-bottom: 0; left: 10px;" allowfullscreen></iframe>
+      <iframe src="https://www.google.com/maps/place/Bank+Sampah+Pusat+Kota+Makassar/@-5.1628157,119.4511209,17z/data=!3m1!4b1!4m6!3m5!1s0x2dbee2e61806efa3:0x871e1040a9f97a8a!8m2!3d-5.1628157!4d119.4533096!16s%2Fg%2F11dzdh65xd?entry=ttu></iframe>
     </div>
   </div>
 
@@ -175,7 +175,7 @@ require 'system/config/koneksi.php'
 
       <div>
         <i class="fa fa-map-marker"></i>
-        <p><span>Desa Karangwotan</span> Kecamatan Pucakwangi, Kabupaten Pati.</p>
+        <p><span>Makassar </span> Kecamatan Panakukang, Kota Makassar.</p>
       </div>
 
       <div>
